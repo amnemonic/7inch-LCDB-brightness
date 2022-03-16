@@ -6,3 +6,7 @@ Possibly can be modified to handle also [7 inch HDMI LCD (C)](https://www.wavesh
 
 
 ![Screenshot](https://raw.githubusercontent.com/amnemonic/7inch-LCDB-brightness/main/screenshot.png)
+
+----
+
+For RaspberryPI/Raspbian/Linux see this [python script](https://gist.github.com/amnemonic/cd5bde47db246509240747b658632a13)
